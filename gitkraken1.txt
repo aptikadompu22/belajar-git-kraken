@@ -6,3 +6,5 @@ maksudnya untuk lebih mudah clone folder dan sebagainya.
 semoga dilancarkan 
 
 belajar lagi git kraken versi 2
+
+Ini kita edit lagi dari GIT HUB yaa.
