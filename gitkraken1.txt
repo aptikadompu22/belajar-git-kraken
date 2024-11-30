@@ -4,3 +4,5 @@ maksudnya untuk lebih mudah clone folder dan sebagainya.
 ===== belajar git clone =====
 
 semoga dilancarkan 
+
+belajar lagi git kraken versi 2
